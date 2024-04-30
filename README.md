@@ -1,0 +1,1 @@
+# data-platform-api-participation-reads-rmq-kube
